@@ -1,21 +1,24 @@
 import { Slot } from '@radix-ui/react-slot';
 import { clsx } from 'clsx';
-import { ReactNode } from 'react';
+import { ButtonHTMLAttributes, ReactNode } from 'react';
 
-export interface ButtonProps {
+export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
     children: ReactNode;
     asChild?: boolean;
 }
 
 
-export function Button({ children, asChild }: ButtonProps) {
+export function Button({ children, asChild, className, ...props }: ButtonProps) {
     const Comp = asChild ? Slot : 'button';
 
     return (
+    
         <Comp 
-        className={clsx(
-            'py-4 px-3 bg-emerald-600 rounded font-semibold text-black text-sm w-full transition-colors hover:bg-emerald-300 focus:ring-2 ring-black',
-        )}
+            className={clsx(
+                'py-3 px-4 bg-emerald-600 rounded font-semibold text-black text-sm w-full transition-colors hover:bg-emerald-300 focus:ring-2 ring-black',
+                className,
+            )}
+            {...props}
         >
             {children}
         </Comp>
