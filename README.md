@@ -54,7 +54,7 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Ignite Lab" title="#IgniteLab" src="./src/assets/Web_view.png" width="400px">
+  <img alt="Ignite Lab" title="#IgniteLab" src="./src/assets/Web_view.png" width="375px">
 
   <img alt="Ignite Lab" title="#IgniteLab" src="./src/assets/web_login.png" width="400px">
 </p>
