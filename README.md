@@ -54,7 +54,7 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Ignite Lab" title="#IgniteLab" src="./src/assets/web_view.png" width="400px">
+  <img alt="Ignite Lab" title="#IgniteLab" src="./src/assets/Web_view.png" width="400px">
 
   <img alt="Ignite Lab" title="#IgniteLab" src="./src/assets/web_login.png" width="400px">
 </p>
@@ -165,13 +165,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://github.com/Rafeso">
- <img  src="https://camo.githubusercontent.com/e01364e2c1c63050f5f68950a1296bcf128f87637fc9994d32d899fd65fbb73e/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313030313537363837393531393730333037332f313030313537373836343432363136383532312f676966676974312e706e673f77696474683d363736266865696768743d363736" width="150px;" alt=""/>
- <br />
- <sub><b>Rafael Feitosa</b></sub></a> <a href="#">☕</a>
- <br />
+ <img  src="https://camo.githubusercontent.com/e01364e2c1c63050f5f68950a1296bcf128f87637fc9994d32d899fd65fbb73e/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313030313537363837393531393730333037332f313030313537373836343432363136383532312f676966676974312e706e673f77696474683d363736266865696768743d363736" width="150px;" alt=""/></a>
+
  
- [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-feitosa-618472241/)](https://www.linkedin.com/in/rafael-feitosa-618472241/) 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-squarew&logo=github&logoColor=white%link=https://github.com/Rafeso)](https://github.com/Rafeso)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-feitosa-618472241/)](https://www.linkedin.com/in/rafael-feitosa-618472241/)[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-squarew&logo=github&logoColor=white%link=https://github.com/Rafeso)](https://github.com/Rafeso)
 
 ---
 
