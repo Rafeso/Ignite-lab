@@ -8,7 +8,7 @@
    <a href="https://github.com/Rafeso/Ignite-lab/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/Rafeso/Ignite-lab?style=social">
   </a>
-
+ <br>
   <a href="https://www.linkedin.com/in/rafael-feitosa-618472241/">
     <img alt="Feito por Rafeso" src="https://img.shields.io/badge/feito%20por-Rafeso-%237519C1">
  </a>
