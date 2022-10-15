@@ -59,6 +59,14 @@ O layout da aplicação está disponível no Figma:
   <img alt="Ignite Lab" title="#IgniteLab" src="./src/assets/web_login.png" width="400px">
 </p>
 
+
+<a href="https://code-lab.vercel.app/">Clique aqui para visualizar o formulário</a>
+
+<br>
+
+<a href="https://rafeso.github.io/ignite-lab/">Clique aqui para visualizar o Storybook</a>
+
+
 ---
 
 ## 🚀 Como executar o projeto
