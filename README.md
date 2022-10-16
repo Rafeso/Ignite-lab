@@ -121,7 +121,7 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run storybook
 
-# Se desejar pode executar o comando test (Só funciona quando o storybook está aberto na porta 6006)
+# Se desejar pode executar o comando test (Só funciona quando o storybook está aberto no localhost)
 $ npm run test
 
 # A aplicação será aberta na porta:6006 - acesse http://localhost:6006
