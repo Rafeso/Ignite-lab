@@ -162,11 +162,21 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 💪 Como contribuir para o projeto
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
+Este repositório está aberto a contribuições! qualquer tipo de contribuição será muito bem vinda.
+
+Se você quer contribuir, por favor siga esses passos a seguir:
+
+1. Indentifique alguma issue, bug ou melhoria que pode ser feita
+2. Faça um fork deste repositório e clone no seu pc.
+3. Run npm install.
+4. Adicione suas mudanças e as teste localmente.
+5. Faça commit das suas mudanças e abra um pull request.
+6. Aplique quaisquer alterações propostas pelos mantedores.
+7. E finalmente, it´s merge time! 😎
+
+Obs: Se você não tem certeza de como fazer suas propostas de alterações, ou queira discutir pequenos detalhes, sinta-se livre para abrir uma issue e discutir as ideias com os mantedores.
+
+Caso tenha qualquer duvida sobre <a href="https://docs.github.com/pt/get-started/quickstart/contributing-to-projects">como contribuir para projetos no github.</a>
 
 ---
 
