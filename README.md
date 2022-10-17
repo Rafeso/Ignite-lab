@@ -169,6 +169,8 @@ Se você quer contribuir, por favor siga esses passos a seguir:
 6. Aplique quaisquer alterações propostas pelos mantedores.
 7. E finalmente, it´s merge time! 😎
 
+Ou se quiser, simplesmente clone o repositório e faça sua própria versão 😉
+
 Obs: Se você não tem certeza de como fazer suas propostas de alterações, ou queira discutir pequenos detalhes, sinta-se livre para abrir uma issue e discutir as ideias com os mantedores.
 
 Caso tenha qualquer duvida sobre <a href="https://docs.github.com/pt/get-started/quickstart/contributing-to-projects">como contribuir para projetos no github.</a>
