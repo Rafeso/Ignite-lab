@@ -21,6 +21,8 @@
 	✔  Ignite Lab 🚀 Concluído  ✔
 </h4>
 
+<p align="center">Navegação rapida</p>
+
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-layout">Layout</a> • 
@@ -70,11 +72,6 @@ O layout da aplicação está disponível no Figma:
 
 ## 🚀 Como executar o projeto
 
-Este Projeto é divido em três etapas:
-1. Localhost com vite para visualizar o Formulário de Login
-2. Localhost com storybook para visualizar a documentação do design system
-3. Testes de componentes com [storybook interaction test](https://www.npmjs.com/package/@storybook/addon-interactions)
-
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -90,7 +87,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:Rafeso/ignite-lab.git
+$ git clone https://github.com/Rafeso/ignite-lab.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd ignite-lab
@@ -109,7 +106,7 @@ $ npm run dev
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:Rafeso/ignite-lab.git
+$ git clone https://github.com/Rafeso/ignite-lab.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd ignite-lab
@@ -150,7 +147,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (Ignite Lab - Design System)](https://www.figma.com/file/UT1l6W7CnEmH2IiwoS1Mqa/Ignite_Lab)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**, **[PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)**
 -   Markdown:  **[StackEdit](https://stackedit.io/)**
--   Commit Conventional:  **[Commitlint](https://github.com/conventional-changelog/commitlint)**
 -   Teste de Componentes:  **[MSW](https://mswjs.io/)**
 -   Ícones:  **[Phosphor Icons](https://phosphoricons.com/?ref=madewithreactjs.com)**
 -   Fontes:  **[Inter](https://fonts.google.com/specimen/Inter)**
